@@ -1,7 +1,10 @@
 # WriteADataScienceBlogPost
-This project communicate the insights about the data analysis for Project 1 for the Data Science specialization in Udacity.
 
 Author: Angelina Espinoza-Limon
+
+IMPORTANT NOTE: The complete dataset is about 100 Mb, then I've just submitted part of it, but the complete dataset can be obtained from: https://www.kaggle.com/ntnu-testimon/paysim1
+
+This project communicate the insights about the data analysis for Project 1 for the Data Science specialization in Udacity.
 
 This project presents the CRISP-DM process for the financial data analysis in order to identifyering what is the behaviour of the variables, which affect the identification of suspicious transactions from raw data. Several business questions are defined to guide the analysis that will be answered through this analysis. Thereafter, it is firstly analysed the data to find out which variables are mostly affecting the fraud detection, and then to model a suitable machine learning algorithm. This analysis include to perform a bias-variance trade-off to evaluate the model precision, through the AUPRC error score curve. 
 
