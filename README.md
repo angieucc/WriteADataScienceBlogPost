@@ -1,5 +1,5 @@
 # WriteADataScienceBlogPost
-This project communicate the insights about the data analysis for Project 1 from the Data Science specialization in Udacity.
+This project communicate the insights about the data analysis for Project 1 for the Data Science specialization in Udacity.
 
 Author: Angelina Espinoza-Limon
 
