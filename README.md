@@ -2,7 +2,7 @@
 
 Author: Angelina Espinoza-Limon
 
-IMPORTANT NOTE: The complete dataset is about 100 Mb, then I've just submitted part of it, but the complete dataset can be obtained from: https://www.kaggle.com/ntnu-testimon/paysim1
+IMPORTANT NOTE: The complete dataset is more than 100 Mb, then I've just uploaded part of it, but the complete dataset can be obtained from: https://www.kaggle.com/ntnu-testimon/paysim1
 
 This project communicate the insights about the data analysis for Project 1 for the Data Science specialization in Udacity.
 
